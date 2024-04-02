@@ -14,6 +14,8 @@ public class github {
 		double num2 = 5.85; //para realizarlo con el double es necesario indicar (int) delante del math.round)
 		int redondeado2 = (int)Math.round(num2);
 		System.out.println(redondeado2);
+		System.out.println(redondeado3);
+		
 		
 		//exponente de una cifra elevada a otra
 		double base = 5; 
