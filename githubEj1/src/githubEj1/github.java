@@ -13,8 +13,7 @@ public class github {
 		
 		double num2 = 5.85; //para realizarlo con el double es necesario indicar (int) delante del math.round)
 		int redondeado2 = (int)Math.round(num2);
-		System.out.println(redondeado2);
-		System.out.println(redondeado3);
+		System.out.println(redondeado2)
 		
 		
 		//exponente de una cifra elevada a otra
@@ -22,5 +21,7 @@ public class github {
 		double exponente = 3;
 		double resultado = Math.pow(base, exponente);
 		System.out.println(resultado);
+
+		system.out.println("hola")
 	}
 }
